@@ -204,3 +204,34 @@
 span{
     color: #E55473;
 }
+
+
+.fith-section{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.pr-fith{
+    width: 600px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    line-height: 24px;
+}
+
+.insta-image{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 20px;
+    align-items: center;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.in-ig{
+    width: 300px;
+    height: 300px;
+}
