@@ -246,6 +246,7 @@ span{
     background-image: url(Image/Rectangle\ 9.png);
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 8px;
     margin-bottom: 50px;
     align-items: center;
     text-align: center;
@@ -274,4 +275,42 @@ span{
     border: none;
     border-radius: 8px;
     padding: 20px 43px;
+}
+
+.footer{
+    height: 300px;
+    background-color: black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.footer-title{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+   
+}
+
+.footer-pr{
+    color: white;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+
+}
+
+.footer-pr2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+
 }
