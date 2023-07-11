@@ -169,3 +169,38 @@
 .pr-image{
     margin-top: 20px;
 }
+
+/* 4th section */
+
+.fouth-section{
+    height: 400px;
+    background-color: #FEF6F8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 30px 60px;
+
+}
+.fouth-left{
+    width: 550px;
+}
+
+.btn-fouth{
+    background-color: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 43px;
+    margin-top: 20px;
+}
+
+.fouth-image{
+    height: 350px;
+}
+
+span{
+    color: #E55473;
+}
