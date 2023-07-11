@@ -3,6 +3,35 @@
     padding: 0;
 }
 
+.primary-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.primary-pr{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+
+}
+
+.btn-primary{
+    background-color: #E55473;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 43px;
+}
+
+/* 1st section */
 
 .first-section{
     height: 100vh;
@@ -27,7 +56,7 @@
     line-height: normal;
 }
 
-.primary-pr{
+.first-pr{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
@@ -38,17 +67,82 @@
     
 }
 
-.btn-primary{
-    background-color: #E55473;
-    color: white;
-    font-size: 20px;
-    font-weight: 700;
-    border: none;
-    border-radius: 8px;
-    padding: 20px 43px;
-}
-
 .image1st{
     height: 100vh;
     
 }
+
+/* 2nd section */
+
+.second-section{
+    margin-top: 40px;
+}
+
+.second-section-first{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.image-text{
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+}
+
+
+.image-section{
+    background-color: #C95992;
+    width: 300px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.second-section-pr{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+}
+
+
+.second-section-image{
+    height: 250px;
+    margin-top: 100px;
+}
+
+
+.image-section-2{
+    background-color: #D9EFF1;
+    width: 300px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.second-section-image-2{
+    height: 250px;
+    margin-top: 100px;
+    }
+
+.image-section-3{
+    background-color: #E3EBDB;
+    width: 300px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.second-section-image-3{
+    height: 250px;
+    margin-top: 100px;
+    }
